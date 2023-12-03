@@ -1,5 +1,8 @@
 <h1>Basic linux profyling demo</h1>
 
+Full documentation is located here:
+https://docs.google.com/document/d/1q5ShNaAyYUmndqBkmtsd4AwRsIUAIMoxyNvZz_pxG4Q/edit?usp=sharing
+
 <h2>Usage</h2>
 
 Add files `{name}`.cpp to codes folder.
